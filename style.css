@@ -1,0 +1,17 @@
+h1{
+	color: red;
+	background-color: green;
+	padding-left: 20px;
+}
+.mission{
+	color: white;
+	background-color: #21618C;
+}
+aside{
+	width: 30%;
+	padding-left: 15px;
+	margin-left: 15px;
+	float: right;
+	font-style: italic;
+	background-color: lightgray;
+}
